@@ -1,0 +1,44 @@
+
+------------------------------------------------------------------
+1 : https://gilda-wms.ct.infn.it:9000/nDfKn6UjMoSfpy99JLULLg
+2 : https://gilda-wms.ct.infn.it:9000/MpKvPLPMTdnuOCdlHUulKw
+3 : https://gilda-wms.ct.infn.it:9000/4qmG9EezhdZNSlUvHrITBA
+a : all
+q : quit
+------------------------------------------------------------------
+
+Choose one or more jobId(s) in the list - [1-3]all:
+
+
+======================= glite-wms-job-status Success =====================
+BOOKKEEPING INFORMATION:
+
+Status info for the Job : https://gilda-wms.ct.infn.it:9000/nDfKn6UjMoSfpy99JLULLg
+Current Status:     Cleared
+Status Reason:      user retrieved output sandbox
+Destination:        gilda-ce.ct.infn.it:8443/cream-pbs-gilda
+Submitted:          Wed Jul 18 15:18:50 2018 CEST
+==========================================================================
+
+
+======================= glite-wms-job-status Success =====================
+BOOKKEEPING INFORMATION:
+
+Status info for the Job : https://gilda-wms.ct.infn.it:9000/MpKvPLPMTdnuOCdlHUulKw
+Current Status:     Cleared
+Status Reason:      user retrieved output sandbox
+Destination:        gilda-ce.ct.infn.it:8443/cream-pbs-gilda
+Submitted:          Wed Jul 18 15:19:19 2018 CEST
+==========================================================================
+
+
+======================= glite-wms-job-status Success =====================
+BOOKKEEPING INFORMATION:
+
+Status info for the Job : https://gilda-wms.ct.infn.it:9000/4qmG9EezhdZNSlUvHrITBA
+Current Status:     Cleared
+Status Reason:      user retrieved output sandbox
+Destination:        gilda-ce.ct.infn.it:8443/cream-pbs-gilda
+Submitted:          Wed Jul 18 15:19:30 2018 CEST
+==========================================================================
+

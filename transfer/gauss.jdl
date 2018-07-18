@@ -1,0 +1,6 @@
+Executable = "make_gauss.sh";
+Arguments="100";
+InputSandbox = {"make_gauss.sh","gauss.exe","make_matrix.exe"};
+StdOutput = "gauss.log";
+StdError = "gauss.err";
+OutputSandbox = {"gauss.log","gauss.err","A.matrix","B.matrix","T.matrix","S.matrix"};
